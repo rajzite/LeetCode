@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rajzite/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/rajzite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajzite/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rajzite/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rajzite/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
