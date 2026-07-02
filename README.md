@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rajzite/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajzite/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajzite/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajzite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
