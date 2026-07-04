@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajzite/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajzite/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0228-summary-ranges](https://github.com/rajzite/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/rajzite/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rajzite/LeetCode/tree/master/1480-running-sum-of-1d-array) |
