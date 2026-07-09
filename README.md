@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajzite/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/rajzite/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rajzite/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rajzite/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -80,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajzite/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajzite/LeetCode/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajzite/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
