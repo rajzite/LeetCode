@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rajzite/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rajzite/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rajzite/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/rajzite/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rajzite/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
