@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rajzite/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rajzite/LeetCode/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajzite/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajzite/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajzite/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/rajzite/LeetCode/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajzite/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajzite/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajzite/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajzite/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajzite/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/rajzite/LeetCode/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajzite/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajzite/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajzite/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/rajzite/LeetCode/tree/master/2409-count-days-spent-together) |
